@@ -18,14 +18,12 @@ The programming language that I used was Python and I used the pygame library. A
 
 A couple websites that assisted me in this project were
 
-- [Web Site Name](https://www.pygame.org/docs/tut/newbieguide.html)
+- [Pygame Newbie Guide](https://www.pygame.org/docs/tut/newbieguide.html)
   (This website helped me understand pygame better.)
-- [Web Site Name](https://www.pngwing.com/en/search?q=flappy+Bird)
+- [Flappy Bird PNG Images](https://www.pngwing.com/en/search?q=flappy+Bird)
   (This website allowed me to download the sprite that I used for the bird in the game.)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - The first thing that I need to imporve in this project is adding functionality to allow the user to click a button to start the game, as well as restart the game.
 - Another thing that I would like to add is the ability save the user's highest score.
